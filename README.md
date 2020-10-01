@@ -45,3 +45,7 @@
 
 
 - 추후 Transformer model로 변경 완료.
+
+
+## 논문 
+http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09874846
